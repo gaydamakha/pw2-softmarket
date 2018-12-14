@@ -13,7 +13,7 @@ $ php composer.phar install
 
 Ensuite, lancer un script permettant de faire "build" de la page d'accueil:
 
-$ ./build-up
+$ ./build
 
 <h4>Author</h4>
 Mikhail Gaydamakha
